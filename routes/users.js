@@ -39,5 +39,4 @@ router.get('/:user_id/tasks/:task_id/destroy', function (req, res) {
   });
 });
 
-
 module.exports = router;
